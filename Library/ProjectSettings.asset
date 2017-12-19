@@ -530,11 +530,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTKIntro
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 8087a92ef090d401
   metroApplicationDescription: MRTKIntro
   wsaImages: {}
   metroTileShortName: MRTKIntro
@@ -561,19 +561,19 @@ PlayerSettings:
       InputInjectionBrokered: False
       InternetClient: True
       InternetClientServer: True
-      Location: False
+      Location: True
       Microphone: True
       MusicLibrary: True
       Objects3D: False
       PhoneCall: False
       PicturesLibrary: True
       PrivateNetworkClientServer: True
-      Proximity: False
+      Proximity: True
       RemovableStorage: False
       SharedUserCertificates: False
       SpatialPerception: True
       UserAccountInformation: False
-      VideosLibrary: False
+      VideosLibrary: True
       VoipCall: False
       WebCam: True
   metroFTAName: 

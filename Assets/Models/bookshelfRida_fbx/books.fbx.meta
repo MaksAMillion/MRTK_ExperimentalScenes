@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 755e3cb9af0f477499ca0b9c42316424
+timeCreated: 1512979685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: book01_01
+    100002: book01_02
+    100004: book01_03
+    100006: book01_04
+    100008: book02_01
+    100010: book02_02
+    100012: book02_03
+    100014: book02_04
+    100016: book02_05
+    100018: book02_06
+    100020: book02_07
+    100022: book02_08
+    100024: book03_01
+    100026: book03_02
+    100028: book03_03
+    100030: book03_04
+    100032: book03_05
+    100034: book03_06
+    100036: book03_07
+    100038: book03_08
+    100040: book03_09
+    100042: book04_01
+    100044: book04_02
+    100046: book04_03
+    100048: book04_04
+    100050: book04_05
+    100052: book04_06
+    100054: book04_07
+    100056: book04_08
+    100058: //RootNode
+    400000: book01_01
+    400002: book01_02
+    400004: book01_03
+    400006: book01_04
+    400008: book02_01
+    400010: book02_02
+    400012: book02_03
+    400014: book02_04
+    400016: book02_05
+    400018: book02_06
+    400020: book02_07
+    400022: book02_08
+    400024: book03_01
+    400026: book03_02
+    400028: book03_03
+    400030: book03_04
+    400032: book03_05
+    400034: book03_06
+    400036: book03_07
+    400038: book03_08
+    400040: book03_09
+    400042: book04_01
+    400044: book04_02
+    400046: book04_03
+    400048: book04_04
+    400050: book04_05
+    400052: book04_06
+    400054: book04_07
+    400056: book04_08
+    400058: //RootNode
+    2300000: book01_01
+    2300002: book01_02
+    2300004: book01_03
+    2300006: book01_04
+    2300008: book02_01
+    2300010: book02_02
+    2300012: book02_03
+    2300014: book02_04
+    2300016: book02_05
+    2300018: book02_06
+    2300020: book02_07
+    2300022: book02_08
+    2300024: book03_01
+    2300026: book03_02
+    2300028: book03_03
+    2300030: book03_04
+    2300032: book03_05
+    2300034: book03_06
+    2300036: book03_07
+    2300038: book03_08
+    2300040: book03_09
+    2300042: book04_01
+    2300044: book04_02
+    2300046: book04_03
+    2300048: book04_04
+    2300050: book04_05
+    2300052: book04_06
+    2300054: book04_07
+    2300056: book04_08
+    3300000: book01_01
+    3300002: book01_02
+    3300004: book01_03
+    3300006: book01_04
+    3300008: book02_01
+    3300010: book02_02
+    3300012: book02_03
+    3300014: book02_04
+    3300016: book02_05
+    3300018: book02_06
+    3300020: book02_07
+    3300022: book02_08
+    3300024: book03_01
+    3300026: book03_02
+    3300028: book03_03
+    3300030: book03_04
+    3300032: book03_05
+    3300034: book03_06
+    3300036: book03_07
+    3300038: book03_08
+    3300040: book03_09
+    3300042: book04_01
+    3300044: book04_02
+    3300046: book04_03
+    3300048: book04_04
+    3300050: book04_05
+    3300052: book04_06
+    3300054: book04_07
+    3300056: book04_08
+    4300000: book01_01
+    4300002: book03_01
+    4300004: book03_09
+    4300006: book04_08
+    4300008: book04_07
+    4300010: book04_06
+    4300012: book03_07
+    4300014: book04_04
+    4300016: book03_04
+    4300018: book02_08
+    4300020: book01_02
+    4300022: book03_02
+    4300024: book03_05
+    4300026: book02_05
+    4300028: book02_04
+    4300030: book02_07
+    4300032: book04_05
+    4300034: book02_02
+    4300036: book01_04
+    4300038: book04_01
+    4300040: book02_03
+    4300042: book04_03
+    4300044: book04_02
+    4300046: book02_06
+    4300048: book02_01
+    4300050: book01_03
+    4300052: book03_03
+    4300054: book03_06
+    4300056: book03_08
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat.012
+    second: {fileID: 2100000, guid: 92d4d36ff5b8b0448aaa4d9e79f4ff48, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
