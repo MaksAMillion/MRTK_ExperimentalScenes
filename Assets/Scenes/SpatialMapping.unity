@@ -525,7 +525,7 @@ Prefab:
         type: 2}
       propertyPath: _equippedObject
       value: 
-      objectReference: {fileID: 1836541683}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a611e772ef8ddf64d8106a9cbb70f31c, type: 2}
   m_IsPrefabParent: 0
@@ -770,18 +770,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8c638b63f2dcf941a262eac53872cf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LoadPointer: {fileID: 0}
-  MinCursorDistance: 1
-  DefaultCursorDistance: 2
-  SurfaceCursorDistance: 0.02
-  UseUnscaledTime: 1
-  PositionLerpTime: 0.01
-  ScaleLerpTime: 0.01
-  RotationLerpTime: 0.01
-  LookRotationBlend: 0.5
-  _equippedObject: {fileID: 0}
-  PrimaryCursorVisual: {fileID: 0}
-  handDetected: 0
-  currentObject: {fileID: 0}
+  currentObject: {fileID: 1836541683}
   cursorAcid: {fileID: 193258274}
   handPosition: {x: 0, y: 0, z: 0}
