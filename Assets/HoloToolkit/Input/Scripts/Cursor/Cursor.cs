@@ -69,6 +69,12 @@ namespace HoloToolkit.Unity.InputModule
         /// <summary>
         /// Visual that is displayed when cursor is active normally
         /// </summary>
+        [Header("Object currently equipped")]
+        public GameObject _equippedObject;
+
+        /// <summary>
+        /// Visual that is displayed when cursor is active normally
+        /// </summary>
         [Header("Transform References")]
         public Transform PrimaryCursorVisual;
 
@@ -110,6 +116,9 @@ namespace HoloToolkit.Unity.InputModule
         private Vector3 targetScale;
         private Quaternion targetRotation;
 
+        private Vector3 _detectedHandPosition;
+        private SourceStateEventData _handDetectedEventData;
+
         /// <summary>
         /// Indicates if the cursor should be visible
         /// </summary>
@@ -141,6 +150,30 @@ namespace HoloToolkit.Unity.InputModule
         {
             UpdateCursorState();
             UpdateCursorTransform();
+            if (IsHandVisible)
+            {
+                uint sourceId = _handDetectedEventData.SourceId;
+                Vector3 position;
+                //Quaternion orientation;
+
+                if (_handDetectedEventData.InputSource.TryGetPointerPosition(sourceId, out position))
+                {
+                    _equippedObject.SetActive(true);
+                    _equippedObject.transform.position = position;
+                }
+
+                /*
+                if (_handDetectedEventData.InputSource.TryGetOrientation(sourceId, out orientation))
+                {
+                    _equippableObject.transform.rotation = orientation;
+                }
+                */
+            }
+            else
+            {
+                _equippedObject.SetActive(false);
+            }
+
         }
 
         /// <summary>
@@ -409,6 +442,8 @@ namespace HoloToolkit.Unity.InputModule
             {
                 visibleHandsCount++;
                 IsHandVisible = true;
+           
+                _handDetectedEventData = eventData;
             }
         }
 
