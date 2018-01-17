@@ -87,6 +87,17 @@ namespace HoloToolkit.Unity.InputModule
             get { return transform.localScale; }
         }
 
+
+        [Header("Hand Manipulation")]
+        public GameObject defaultObject;
+        public GameObject equippableObject;
+
+        /// <summary>
+        /// 
+        /// </summary>
+        protected bool _primaryHandDetected;
+
+
         /// <summary>
         /// Indicates if hand is current in the view
         /// </summary>
@@ -110,6 +121,11 @@ namespace HoloToolkit.Unity.InputModule
         private Vector3 targetScale;
         private Quaternion targetRotation;
 
+        private Vector3 _detectedHandPosition;
+        private SourceStateEventData _handDetectedEventData;
+        private uint _sourceId;
+
+        
         /// <summary>
         /// Indicates if the cursor should be visible
         /// </summary>
@@ -141,6 +157,56 @@ namespace HoloToolkit.Unity.InputModule
         {
             UpdateCursorState();
             UpdateCursorTransform();
+
+            if (IsHandVisible)
+            {
+                Vector3 position;
+                Quaternion orientation;
+
+                if (_handDetectedEventData.InputSource.TryGetGripPosition(_handDetectedEventData.SourceId, out position))
+                {
+                    //equippableObject.SetActive(false);
+
+                    if (equippableObject != null)
+                    {
+                        equippableObject.SetActive(true);
+                        equippableObject.transform.position = new Vector3(position.x, position.y, position.z);
+
+                        RaycastShoot sprayCan = equippableObject.GetComponent<RaycastShoot>();
+
+                        if (IsInputSourceDown && sprayCan != null)
+                        {
+                            sprayCan.InputSourceDown(true);
+                        }
+                        else if (sprayCan != null)
+                        {
+                            sprayCan.InputSourceDown(false);
+                        }
+                    }
+                    else if (defaultObject != null)
+                    {
+                        // equippableObject = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+
+
+                        // GameObject gb = GameObject.CreatePrimitive(PrimitiveType.Cube);
+                        //equippableObject.transform.position = new Vector3(position.x, position.y, position.z);
+                        defaultObject.SetActive(true);
+                        defaultObject.transform.position = new Vector3(position.x, position.y, position.z);
+                        // gb.transform.localScale = new Vector3(0.01F, 0.01F, 0.01F);
+
+                        // equippableObject.transform.localScale = new Vector3(0.04F, 0.04F, 0.04F);
+                    }
+                }
+
+                if (_handDetectedEventData.InputSource.TryGetGripRotation(_sourceId, out orientation))
+                {
+                    equippableObject.transform.rotation = orientation;
+                }
+            }
+            else
+            {
+                // equippableObject.SetActive(false);
+            }
         }
 
         /// <summary>
@@ -268,6 +334,7 @@ namespace HoloToolkit.Unity.InputModule
                     : newFocusedObject.GetComponent<CursorModifier>();
 
                 OnActiveModifier(newModifier);
+
             }
         }
 
@@ -374,6 +441,15 @@ namespace HoloToolkit.Unity.InputModule
             if (Pointer != null && Pointer.OwnsInput(eventData))
             {
                 IsInputSourceDown = false;
+
+                if (defaultObject != null)
+                {
+                    HandController handController = defaultObject.GetComponent<HandController>();
+                    if (handController != null)
+                    {
+                        handController.HandGrab(IsInputSourceDown);
+                    }
+                }
             }
         }
 
@@ -386,6 +462,15 @@ namespace HoloToolkit.Unity.InputModule
             if (Pointer != null && Pointer.OwnsInput(eventData))
             {
                 IsInputSourceDown = true;
+                
+                if (defaultObject != null)
+                {
+                    HandController handController = defaultObject.GetComponent<HandController>();
+                    if (handController != null)
+                    {
+                        handController.HandGrab(IsInputSourceDown);
+                    }
+                }
             }
         }
 
@@ -410,11 +495,9 @@ namespace HoloToolkit.Unity.InputModule
                 visibleHandsCount++;
                 IsHandVisible = true;
 
-                TouchManager.Instance.SetHandDetected(IsHandVisible);
-                TouchManager.Instance.SetSourceStateEventData(eventData);
+                _handDetectedEventData = eventData;
             }
         }
-
 
         /// <summary>
         /// Input source lost callback for the cursor
@@ -425,13 +508,11 @@ namespace HoloToolkit.Unity.InputModule
             if (Pointer != null && Pointer.OwnsInput(eventData))
             {
                 visibleHandsCount--;
-                if (visibleHandsCount == 0)
+
+                if (visibleHandsCount < 1)
                 {
                     IsHandVisible = false;
-                    IsInputSourceDown = false;
                 }
-                TouchManager.Instance.SetHandDetected(IsHandVisible);
-                TouchManager.Instance.SetSourceStateEventData(eventData);
             }
         }
 

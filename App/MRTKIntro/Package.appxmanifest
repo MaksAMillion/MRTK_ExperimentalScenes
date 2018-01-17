@@ -4,7 +4,7 @@
   <mp:PhoneIdentity PhoneProductId="e36756e0-3ea2-457d-b09a-18fe96f75715" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>MRTKIntro</DisplayName>
-    <PublisherDisplayName>DefaultCompany</PublisherDisplayName>
+    <PublisherDisplayName>ACIDStudios</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -39,6 +39,14 @@
     <DeviceCapability Name="proximity" />
     <DeviceCapability Name="microphone" />
     <DeviceCapability Name="location" />
+    <DeviceCapability Name="humaninterfacedevice">
+      <Device Id="any">
+        <Function Type="usage:0001 0004" />
+      </Device>
+      <Device Id="any">
+        <Function Type="usage:0001 0005" />
+      </Device>
+    </DeviceCapability>
     <DeviceCapability Name="bluetooth" />
   </Capabilities>
 </Package>

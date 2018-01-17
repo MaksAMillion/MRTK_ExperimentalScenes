@@ -389,7 +389,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.85
   far clip plane: 1000
   field of view: 16
   orthographic: 0
@@ -408,6 +408,7 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+  m_StereoMirrorMode: 0
 --- !u!81 &81000013783107718
 AudioListener:
   m_ObjectHideFlags: 1
@@ -562,7 +563,7 @@ MonoBehaviour:
   KeyboardXZRotationAxisControl: {fileID: 114000014171224568}
   KeyboardXYTranslationAxisControl: {fileID: 114000012298662144}
   KeyboardXZTranslationAxisControl: {fileID: 114000012656745502}
-  JoystickSupported: 1
+  JoystickSupported: 0
   JoystickXYRotationAxisControl: {fileID: 114000013649663976}
   JoystickXYTranslationAxisControl: {fileID: 114000010160007858}
   JoystickXZTranslationAxisControl: {fileID: 114000011221680894}

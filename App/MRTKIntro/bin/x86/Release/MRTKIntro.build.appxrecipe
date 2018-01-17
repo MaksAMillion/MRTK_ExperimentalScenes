@@ -346,31 +346,31 @@
     <AppxPackagedFile Include="C:\Users\maxx8\.nuget\packages\system.xml.xmlserializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
       <PackagePath>UnityPlayer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
       <PackagePath>BridgeInterface.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
       <PackagePath>UnityEngineDelegates.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
       <PackagePath>BridgeInterface.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
       <PackagePath>UnityEngineDelegates.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity2017.2.1f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Resource.res">
@@ -402,6 +402,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\acid_unity.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\acid_unity.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
@@ -466,6 +481,21 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\acid_unity.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\acid_unity.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
@@ -476,8 +506,8 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TextRenderingModule.dll">
+      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
@@ -485,26 +515,26 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.StyleSheetsModule.dll">
-      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TerrainPhysicsModule.dll">
+      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ScreenCaptureModule.dll">
-      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TextRenderingModule.dll">
-      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TerrainPhysicsModule.dll">
-      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SharedInternalsModule.dll">
+      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.StyleSheetsModule.dll">
+      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UNETModule.dll">
+      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
@@ -518,8 +548,8 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
@@ -527,8 +557,8 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
@@ -536,8 +566,11 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PhysicsModule.dll">
-      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ScreenCaptureModule.dll">
+      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
@@ -545,8 +578,8 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ARModule.dll">
-      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AssetBundleModule.dll">
+      <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
@@ -556,6 +589,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ARModule.dll">
+      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
@@ -569,11 +605,14 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ParticleSystemModule.dll">
+      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.JSONSerializeModule.dll">
-      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PhysicsModule.dll">
+      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
@@ -581,8 +620,8 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ParticleSystemModule.dll">
-      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.JSONSerializeModule.dll">
+      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
@@ -616,6 +655,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.StandardEvents.dll">
+      <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>

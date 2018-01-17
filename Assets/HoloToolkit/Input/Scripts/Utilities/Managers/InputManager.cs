@@ -418,8 +418,6 @@ namespace HoloToolkit.Unity.InputModule
 
         public void RaiseSourceUp(IInputSource source, uint sourceId, InteractionSourcePressInfo pressType, object[] tags = null)
         {
-            Debug.Log("raise source up: in input manager line 421");
-
             // Create input event
             inputEventData.Initialize(source, sourceId, tags, pressType);
 
@@ -450,8 +448,6 @@ namespace HoloToolkit.Unity.InputModule
 
         public void RaiseSourceDown(IInputSource source, uint sourceId, InteractionSourcePressInfo pressType, object[] tags = null)
         {
-            Debug.Log("raise source down: in input manager line 452");
-
             // Create input event
             inputEventData.Initialize(source, sourceId, tags, pressType);
 

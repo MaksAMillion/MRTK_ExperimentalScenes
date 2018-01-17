@@ -1,0 +1,2 @@
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\MRTKIntro.csproj;x86
