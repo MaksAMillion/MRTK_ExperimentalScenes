@@ -29,4 +29,9 @@ public class HandController : MonoBehaviour
 
         _handAnimator.SetBool("Grab", grab);
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        
+    }
 }

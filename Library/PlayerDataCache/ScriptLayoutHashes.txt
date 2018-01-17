@@ -264,6 +264,7 @@ b98be53d3161052a6717fb4ae6f9ff08 Assembly-CSharp.dll:HoloToolkit.Unity.InputModu
 ce610f1f07fce1af31f7a0c83c795c10 Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.InteractiveWidgetEnabledTest
 3f16ec9c260615d45770eac30ece2ad5 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.SpeechInputSource
 055f44f3f660cf5de32a98172a9b8825 Assembly-CSharp.dll:HoloToolkit.Unity.FpsDisplay
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ObjectPickup
 1ffcf79b2faeecabecd3aed35f004a71 Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.CompoundButtonText
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.Tests.HapticsTest
 7c89456c5bee66ad1a98ab2c91d6339e Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Examples.Grabbables.Grabber
@@ -477,6 +478,7 @@ e7d3d23ab39ca0a3354f7319eb0b73a5 Assembly-CSharp.dll:HoloToolkit.Unity.InputModu
 a8b7fedf57163169948d0df69ec852e6 Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.TextureThemeWidget
 ac44c551c0a95b25d81d6951ab8e0364 Assembly-CSharp.dll:HoloToolkit.Examples.Prototyping.MoveToPosition
 de58daf7a7585c93b4a043e238d5431c Assembly-CSharp.dll:HoloToolkit.Unity.UX.Spline
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HandController
 080daafcf041bc0a677803091b28fc47 Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.ElementSelectedActiveWidget
 e08e9f042d3eae715d9e4e9c2e22cd3a Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.ButtonThemeWidgetOutline
 960588de1ff099aa2d1b4ff55adb229b Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.TriggerButton
@@ -600,3 +602,4 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FingerTouch

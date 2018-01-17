@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{847b9a95-36c1-4c80-9ee3-6800df73b7a0}</ProjectGuid>
+    <ProjectGuid>{a1a0caa9-4abe-44d8-a8ed-c452b9670f7c}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -2294,11 +2294,20 @@
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs">
       <Link>HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\FingerTouch.cs">
+      <Link>Scripts\FingerTouch.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Hand.cs">
       <Link>Scripts\Hand.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\HandController.cs">
+      <Link>Scripts\HandController.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\MoveAlong.cs">
       <Link>Scripts\MoveAlong.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\ObjectPickup.cs">
+      <Link>Scripts\ObjectPickup.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Placeable.cs">
       <Link>Scripts\Placeable.cs</Link>
