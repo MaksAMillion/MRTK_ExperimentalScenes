@@ -15,7 +15,7 @@ namespace HoloToolkit.Unity.SpatialMapping
     public class RemoveSurfaceVertices : Singleton<RemoveSurfaceVertices>
     {
         [Tooltip("The amount, if any, to expand each bounding volume by.")]
-        public float BoundsExpansion = 0.0f;
+        public float BoundsExpansion = 0.2f;
 
         /// <summary>
         /// Delegate which is called when the RemoveVerticesComplete event is triggered.
@@ -229,6 +229,27 @@ namespace HoloToolkit.Unity.SpatialMapping
             }
 
             Debug.Log("Finished removing vertices.");
+
+            List<GameObject> listOfDecorations = new List<GameObject>();
+
+            for (int i = 0; i < SpaceCollectionManager.Instance.transform.childCount; i++)
+            {
+                listOfDecorations.Add(SpaceCollectionManager.Instance.transform.GetChild(i).gameObject);
+            }
+            
+            BoxCollider bc;
+
+            foreach (GameObject gameObjectPrefab in listOfDecorations)
+            {
+                bc = gameObjectPrefab.GetComponent<BoxCollider>();
+
+                if (bc != null)
+                {
+                    bc.enabled = true;
+
+                    Debug.Log("BoxColliders Enabled in removeSurfaceVertices.cs -- line 250");
+                }
+            }
 
             // We are done removing vertices, trigger an event.
             EventHandler handler = RemoveVerticesComplete;

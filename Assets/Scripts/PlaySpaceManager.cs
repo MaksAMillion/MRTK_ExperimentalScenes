@@ -66,24 +66,16 @@ public class PlaySpaceManager : Singleton<PlaySpaceManager>
             }
             else
             {
-                // The user should be done scanning their environment,
-                // so start processing the spatial mapping data...
-
-                /* TODO: 3.a DEVELOPER CODING EXERCISE 3.a */
-
-                // 3.a: Check if IsObserverRunning() is true on the
-                // SpatialMappingManager.Instance.
+                
                 if (SpatialMappingManager.Instance.IsObserverRunning())
                 {
-                    // 3.a: If running, Stop the observer by calling
+                    // If running, Stop the observer by calling
                     // StopObserver() on the SpatialMappingManager.Instance.
                     SpatialMappingManager.Instance.StopObserver();
                 }
 
-                // 3.a: Call CreatePlanes() to generate planes.
                 CreatePlanes();
 
-                // 3.a: Set meshesProcessed to true.
                 meshesProcessed = true;
             }
         }
@@ -120,7 +112,7 @@ public class PlaySpaceManager : Singleton<PlaySpaceManager>
         {
             // We have enough floors and walls to place our holograms on...
 
-            // 3.a: Let's reduce our triangle count by removing triangles
+            // Let's reduce our triangle count by removing triangles
             // from SpatialMapping meshes that intersect with our active planes.
             // Call RemoveVertices().
             // Pass in all activePlanes found by SurfaceMeshesToPlanes.Instance.

@@ -938,6 +938,7 @@
     <Compile Include="Assets\HoloToolkit-Examples\UX\Scripts\Widgets\TextureThemeWidget.cs" />
     <Compile Include="Assets\HoloToolkit-UnitTests\Input\TestEventHandler.cs" />
     <Compile Include="Assets\HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs" />
+    <Compile Include="Assets\Login.cs" />
     <Compile Include="Assets\Scripts\FingerTouch.cs" />
     <Compile Include="Assets\Scripts\Hand.cs" />
     <Compile Include="Assets\Scripts\HandController.cs" />

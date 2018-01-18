@@ -284,7 +284,7 @@ namespace HoloToolkit.Unity.SpatialMapping
                 }
             }
 
-            Debug.Log("Finished making planes.");
+            Debug.Log("Finished making planes. -- SurfaceMesheseToPlanes.cs line 287");
 
             // We are done creating planes, trigger an event.
             EventHandler handler = MakePlanesComplete;
