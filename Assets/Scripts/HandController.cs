@@ -13,13 +13,6 @@ public class HandController : MonoBehaviour
         _handAnimator = GetComponent<Animator>();
 	}
 
-    /// <summary>
-    /// Update is called once per frame
-    /// </summary>
-    void Update () {
-
-	}
-
     public void HandGrab(bool grab)
     {
         if (_handAnimator == null)
@@ -28,10 +21,5 @@ public class HandController : MonoBehaviour
         }
 
         _handAnimator.SetBool("Grab", grab);
-    }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        
     }
 }

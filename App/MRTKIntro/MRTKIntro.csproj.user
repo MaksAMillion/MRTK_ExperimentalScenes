@@ -15,5 +15,8 @@
     <RemoteDebugMachine>192.168.0.21</RemoteDebugMachine>
     <AuthenticationMode>Universal</AuthenticationMode>
     <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <DeviceId>C0E5F7CA-3595-E167-7DFE-3D367F6E3B3E</DeviceId>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <UseEmulator>false</UseEmulator>
   </PropertyGroup>
 </Project>

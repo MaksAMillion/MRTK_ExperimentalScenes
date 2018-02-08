@@ -167,6 +167,7 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEn
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngineDelegates.winmd
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngineProxy.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityPlayer.winmd
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Vuforia.UnityExtensions.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\WinRTBridge.winmd
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\WinRTLegacy.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.TilemapModule.pdb
@@ -219,6 +220,7 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEn
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\nunit.framework.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.UI.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.HoloLens.pdb
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Vuforia.UnityExtensions.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.StandardEvents.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.Networking.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityPlayer.dll
@@ -299,5 +301,5 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\qualifi
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\qualifiers.txt.intermediate
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\ProjectArchitectures.txt
-D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Vuforia.UnityExtensions.dll
-D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Vuforia.UnityExtensions.pdb
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.SpatialTracking.dll
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.SpatialTracking.pdb

@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>3E0AD01CB771191B85E212F31C31362898CB6E4691C9EB355CAAC26418CA6DA3</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7077969EF0D4C7D9DCD0E99F33DEDC3CF1F5CAC10DED14B8E0A7327D428CA859</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>MRTKIntro_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>MRTKIntro_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>MRTKIntro</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-21T10:16:47.602</Modified>
+      <Modified>2018-02-08T10:11:49.011</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\MRTKIntro.exe">
       <PackagePath>entrypoint\MRTKIntro.exe</PackagePath>
-      <Modified>2018-01-21T10:16:28.354</Modified>
+      <Modified>2018-02-08T10:11:29.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\maxx8\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -463,45 +463,45 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T07:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
-      <Modified>2017-12-12T15:07:36.000</Modified>
+      <Modified>2018-01-09T12:44:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
-      <Modified>2017-12-12T15:08:12.000</Modified>
+      <Modified>2018-01-09T12:37:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
       <PackagePath>UnityPlayer.dll</PackagePath>
-      <Modified>2017-12-12T15:07:38.000</Modified>
+      <Modified>2018-01-09T12:44:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
       <PackagePath>BridgeInterface.dll</PackagePath>
-      <Modified>2017-12-12T15:07:32.000</Modified>
+      <Modified>2018-01-09T12:44:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
       <PackagePath>UnityEngineDelegates.dll</PackagePath>
-      <Modified>2017-12-12T15:07:34.000</Modified>
+      <Modified>2018-01-09T12:44:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
       <PackagePath>BridgeInterface.winmd</PackagePath>
-      <Modified>2017-12-12T15:07:56.000</Modified>
+      <Modified>2018-01-09T12:44:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.winmd">
       <PackagePath>UnityEngineDelegates.winmd</PackagePath>
-      <Modified>2017-12-12T15:07:58.000</Modified>
+      <Modified>2018-01-09T12:44:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
-      <Modified>2017-12-12T15:08:00.000</Modified>
+      <Modified>2018-01-09T12:44:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
+    <AppxPackagedFile Include="C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
-      <Modified>2017-12-12T15:08:00.000</Modified>
+      <Modified>2018-01-09T12:44:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-01-21T10:15:19.565</Modified>
+      <Modified>2018-02-08T10:09:45.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -537,25 +537,9 @@
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-12-12T13:59:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\acid_unity.xml">
-      <PackagePath>Data\StreamingAssets\Vuforia\acid_unity.xml</PackagePath>
-      <Modified>2018-01-13T10:11:43.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\HoloBook.xml</PackagePath>
+      <Modified>2018-02-08T08:38:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
@@ -575,7 +559,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\VuforiaWrapper.dll">
       <PackagePath>VuforiaWrapper.dll</PackagePath>
-      <Modified>2017-11-21T22:40:30.000</Modified>
+      <Modified>2017-12-14T22:36:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
@@ -583,83 +567,71 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Vuforia.dll">
       <PackagePath>Vuforia.dll</PackagePath>
-      <Modified>2017-11-21T22:40:30.000</Modified>
+      <Modified>2017-12-14T22:36:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-01-21T10:14:30.560</Modified>
+      <Modified>2018-02-08T10:08:57.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-01-21T10:14:13.588</Modified>
+      <Modified>2018-02-08T10:08:29.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-01-21T10:14:09.496</Modified>
+      <Modified>2018-02-08T10:08:26.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
-      <Modified>2017-12-12T14:07:32.000</Modified>
+      <Modified>2018-01-09T11:16:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-01-21T10:14:30.555</Modified>
+      <Modified>2018-02-08T10:08:57.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-01-21T10:14:13.949</Modified>
+      <Modified>2018-02-08T10:08:29.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-01-21T10:14:22.622</Modified>
+      <Modified>2018-02-08T10:08:33.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-01-21T10:14:27.131</Modified>
+      <Modified>2018-02-08T10:08:48.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-01-21T10:14:09.489</Modified>
+      <Modified>2018-02-08T10:08:26.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-01-21T10:14:22.614</Modified>
+      <Modified>2018-02-08T10:08:33.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-01-21T10:14:26.987</Modified>
+      <Modified>2018-02-08T10:08:48.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-01-21T10:15:19.500</Modified>
+      <Modified>2018-02-08T10:09:45.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-01-21T10:15:19.504</Modified>
+      <Modified>2018-02-08T10:09:45.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
-      <Modified>2018-01-21T10:14:22.630</Modified>
+      <Modified>2018-02-08T10:08:33.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\acid_unity.dat">
-      <PackagePath>Data\StreamingAssets\Vuforia\acid_unity.dat</PackagePath>
-      <Modified>2018-01-13T10:11:43.000</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2018-02-08T10:08:48.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat">
-      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat</PackagePath>
-      <Modified>2017-11-20T12:32:25.000</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\HoloBook.dat</PackagePath>
+      <Modified>2018-02-08T08:38:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -668,227 +640,231 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-21T10:16:29.681</Modified>
+      <Modified>2018-02-08T10:11:30.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.448</Modified>
+      <Modified>2018-02-08T10:11:43.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.481</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.523</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.590</Modified>
+      <Modified>2018-02-08T10:11:43.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.622</Modified>
+      <Modified>2018-02-08T10:11:43.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.637</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIModule.dll">
+      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:43.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UIElementsModule.dll">
+      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:43.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.652</Modified>
+      <Modified>2018-02-08T10:11:43.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.694</Modified>
+      <Modified>2018-02-08T10:11:43.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:43.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.722</Modified>
+      <Modified>2018-02-08T10:11:43.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.755</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.785</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WebModule.dll">
-      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.820</Modified>
+      <Modified>2018-02-08T10:11:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.852</Modified>
+      <Modified>2018-02-08T10:11:44.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.871</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.890</Modified>
+      <Modified>2018-02-08T10:11:44.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.920</Modified>
+      <Modified>2018-02-08T10:11:44.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.954</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WebModule.dll">
+      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.WindModule.dll">
+      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.981</Modified>
+      <Modified>2018-02-08T10:11:44.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.012</Modified>
+      <Modified>2018-02-08T10:11:44.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UNETModule.dll">
+      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestAudioModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.029</Modified>
+      <Modified>2018-02-08T10:11:44.253</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.054</Modified>
+      <Modified>2018-02-08T10:11:44.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.102</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ScreenCaptureModule.dll">
-      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.119</Modified>
+      <Modified>2018-02-08T10:11:44.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.145</Modified>
+      <Modified>2018-02-08T10:11:44.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.171</Modified>
+      <Modified>2018-02-08T10:11:44.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.209</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.241</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.CrashReportingModule.dll">
-      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.258</Modified>
+      <Modified>2018-02-08T10:11:44.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.550</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ARModule.dll">
-      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.572</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AnimationModule.dll">
-      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.597</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AIModule.dll">
-      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.633</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AccessibilityModule.dll">
-      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.648</Modified>
+      <Modified>2018-02-08T10:11:44.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-01-21T10:14:53.427</Modified>
+      <Modified>2018-02-08T10:09:12.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.DirectorModule.dll">
+      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.CrashReportingModule.dll">
+      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AccessibilityModule.dll">
+      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ARModule.dll">
+      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AnimationModule.dll">
+      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.AIModule.dll">
+      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.687</Modified>
+      <Modified>2018-02-08T10:11:44.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.721</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PhysicsModule.dll">
-      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.751</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Physics2DModule.dll">
-      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.782</Modified>
+      <Modified>2018-02-08T10:11:44.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.797</Modified>
+      <Modified>2018-02-08T10:11:44.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.JSONSerializeModule.dll">
-      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.818</Modified>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ScreenCaptureModule.dll">
+      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.PhysicsModule.dll">
+      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Physics2DModule.dll">
+      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:44.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.840</Modified>
+      <Modified>2018-02-08T10:11:45.006</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.867</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.InputModule.dll">
-      <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.896</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.IMGUIModule.dll">
-      <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.934</Modified>
+      <Modified>2018-02-08T10:11:45.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-01-21T10:16:43.961</Modified>
+      <Modified>2018-02-08T10:11:45.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.JSONSerializeModule.dll">
+      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:45.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.InputModule.dll">
+      <PackagePath>UnityEngine.InputModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:45.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.IMGUIModule.dll">
+      <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
+      <Modified>2018-02-08T10:11:45.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.026</Modified>
+      <Modified>2018-02-08T10:11:45.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.076</Modified>
+      <Modified>2018-02-08T10:11:45.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.124</Modified>
+      <Modified>2018-02-08T10:11:45.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.219</Modified>
+      <Modified>2018-02-08T10:11:45.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.SpatialTracking.dll">
+      <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
+      <Modified>2018-02-08T10:11:45.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.250</Modified>
+      <Modified>2018-02-08T10:11:45.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.324</Modified>
+      <Modified>2018-02-08T10:11:45.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.356</Modified>
+      <Modified>2018-02-08T10:11:45.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-01-21T10:16:44.440</Modified>
+      <Modified>2018-02-08T10:11:45.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-01-21T10:16:42.421</Modified>
+      <Modified>2018-02-08T10:11:43.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\Core\MRTKIntro.exe">
       <PackagePath>MRTKIntro.exe</PackagePath>
-      <Modified>2018-01-21T10:16:47.598</Modified>
+      <Modified>2018-02-08T10:11:49.007</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

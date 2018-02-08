@@ -162,7 +162,7 @@ cd603c323a90a0cd6b8ca0b7f5596045 Assembly-CSharp.dll:HoloToolkit.Unity.Tests.Tes
 914978d04f1c26f0f843917dfa2d47dc Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.GamepadInput
 4be30993011c7cc5df9c6293fd3d4d1a Assembly-CSharp.dll:HoloToolkit.Unity.UX.DistorterBulge
 979ec343bb4719b48e79cacd32bc5cf1 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.AxisController
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Login
+89d3a5b8694576161b3ce8e616a6e2fa Assembly-CSharp.dll:.Login
 e0a1951523cfeb2d5ee0babfc2505009 Assembly-CSharp.dll:HoloToolkit.Unity.Interpolator
 e5b40ab8003aa24d78b990c4ce29e603 Assembly-CSharp.dll:HoloToolkit.Sharing.Tests.ImportExportAnchorManager
 fe770978f913fce53f59089efcd58dc1 Assembly-CSharp.dll:HoloToolkit.Unity.UX.Ellipse
@@ -186,7 +186,6 @@ ba66ed51a66e14863f51781e69c657ef Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.Key
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 296be13f4be3cfa18e9920cdf7ce02d9 Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.ButtonLocalizedText
 549dafb5e0b8917306ca1eeb3e20dec6 Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.CapsLockHighlight
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DefaultInitializationErrorHandler
 62df283c31d14ff6c4ba60180378b95d Assembly-CSharp.dll:HoloToolkit.Unity.Examples.ButtonReceiverExample
 5645d472525403b5344c650d3f68dd7b Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.ManualGazeControl
 59482caaf92d302435db7de30834f291 Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.InteractiveWidgetTest
@@ -411,7 +410,6 @@ f38ae1c8ae3217e7ea10aae9fcc36f61 Assembly-CSharp.dll:.SpaceCollectionManager
 1193c002177eba10253315561d91d3d2 Assembly-CSharp.dll:HoloToolkit.Unity.UX.Parabola
 a61e5da6995674aa29ce3073ac66ed45 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Examples.Grabbables.GrabbableFixedJoint
 5affa557520c9b1ad67d2162d963829a Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.UICollection
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DefaultTrackableEventHandler
 6c590d89a560ff55e999caaec3baf923 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.TapToPlace
 9913240caf358e21700480ef0550f19f Assembly-CSharp.dll:HoloToolkit.Unity.SlicingPlaneController
 b39fddbe4ede4fafe2e1641885144305 Assembly-CSharp.dll:HoloToolkit.Unity.WorldAnchorManager

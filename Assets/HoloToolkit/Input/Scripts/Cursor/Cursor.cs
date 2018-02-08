@@ -87,10 +87,10 @@ namespace HoloToolkit.Unity.InputModule
             get { return transform.localScale; }
         }
 
-
         [Header("Hand Manipulation")]
         public GameObject defaultObject;
         public GameObject equippableObject;
+        private bool _Active = false;
 
         /// <summary>
         /// 
@@ -158,7 +158,7 @@ namespace HoloToolkit.Unity.InputModule
             UpdateCursorState();
             UpdateCursorTransform();
 
-            if (IsHandVisible)
+            if (IsHandVisible && _Active)
             {
                 Vector3 position;
                 Quaternion orientation;
@@ -442,7 +442,7 @@ namespace HoloToolkit.Unity.InputModule
             {
                 IsInputSourceDown = false;
 
-                if (defaultObject != null)
+                if (defaultObject != null && _Active)
                 {
                     HandController handController = defaultObject.GetComponent<HandController>();
                     if (handController != null)
@@ -463,7 +463,7 @@ namespace HoloToolkit.Unity.InputModule
             {
                 IsInputSourceDown = true;
                 
-                if (defaultObject != null)
+                if (defaultObject != null && _Active)
                 {
                     HandController handController = defaultObject.GetComponent<HandController>();
                     if (handController != null)
@@ -560,6 +560,12 @@ namespace HoloToolkit.Unity.InputModule
         public virtual void OnCursorStateChange(CursorStateEnum state)
         {
             cursorState = state;
+        }
+
+        public void HandActive(bool handActivated)
+        {
+            Debug.Log("Hnad activation is " + handActivated);
+            _Active = handActivated;
         }
     }
 }

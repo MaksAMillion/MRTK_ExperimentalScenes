@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Frozen_42" size="0.205740 0.283123" />
+    <ImageTarget name="Frozen_41" size="0.205740 0.276539" />
+    <ImageTarget name="Frozen_40" size="0.205740 0.289288" />
+    <ImageTarget name="Frozen_39" size="0.205740 0.279527" />
+    <ImageTarget name="Frozen_38" size="0.205740 0.286016" />
+    <ImageTarget name="Frozen_37" size="0.205740 0.285387" />
+    <ImageTarget name="Frozen_36" size="0.205740 0.276193" />
+    <ImageTarget name="Frozen_35" size="0.205740 0.280112" />
+    <ImageTarget name="Frozen_34" size="0.205740 0.277978" />
+    <ImageTarget name="Frozen_33" size="0.205740 0.282794" />
+    <ImageTarget name="Frozen_32" size="0.205740 0.280926" />
+    <ImageTarget name="Frozen_31" size="0.205740 0.282130" />
+    <ImageTarget name="Frozen_30" size="0.205740 0.279876" />
+    <ImageTarget name="Frozen_29" size="0.205740 0.276528" />
+    <ImageTarget name="Frozen_28" size="0.205740 0.281094" />
+    <ImageTarget name="Frozen_27" size="0.205740 0.274036" />
+    <ImageTarget name="Frozen_26" size="0.205740 0.278694" />
+    <ImageTarget name="Frozen_25" size="0.205740 0.279542" />
+    <ImageTarget name="Frozen_24" size="0.205740 0.275258" />
+    <ImageTarget name="Frozen_23" size="0.205740 0.271904" />
+    <ImageTarget name="Frozen_22" size="0.205740 0.277380" />
+    <ImageTarget name="Frozen_21" size="0.205740 0.272209" />
+    <ImageTarget name="Frozen_20" size="0.205740 0.276614" />
+    <ImageTarget name="Frozen_19" size="0.203962 0.272878" />
+    <ImageTarget name="Frozen_18" size="0.203962 0.267381" />
+    <ImageTarget name="Frozen_17" size="0.203962 0.273515" />
+    <ImageTarget name="Frozen_16" size="0.203962 0.266643" />
+    <ImageTarget name="Frozen_15" size="0.203962 0.270523" />
+    <ImageTarget name="Frozen_14" size="0.203962 0.268615" />
+    <ImageTarget name="Frozen_13" size="0.203962 0.258352" />
+    <ImageTarget name="Frozen_12" size="0.203962 0.266576" />
+    <ImageTarget name="Frozen_11" size="0.203962 0.270452" />
+    <ImageTarget name="Frozen_10" size="0.203962 0.268608" />
+    <ImageTarget name="Frozen_9" size="0.203962 0.269120" />
+    <ImageTarget name="Frozen_8" size="0.203962 0.266394" />
+    <ImageTarget name="Frozen_7" size="0.203962 0.269490" />
+    <ImageTarget name="Frozen_6" size="0.203962 0.265051" />
+    <ImageTarget name="Frozen_5" size="0.203962 0.269450" />
+    <ImageTarget name="Frozen_4" size="0.203962 0.268411" />
+    <ImageTarget name="Frozen_InsideCover2" size="0.203962 0.273005" />
+    <ImageTarget name="Frozen_InsideCover" size="0.203962 0.278224" />
+    <ImageTarget name="Frozen_Cover" size="0.205740 0.266365" />
+  </Tracking>
+</QCARConfig>

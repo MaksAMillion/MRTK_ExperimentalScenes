@@ -3,7 +3,7 @@
         <UnityWSASolutionName>MRTKIntro</UnityWSASolutionName>
         <UnityWSASolutionDir>D:\maxx8\Documents\UnityProjects\MRTKIntro\App\</UnityWSASolutionDir>
         <UnityProjectDir>D:\maxx8\Documents\UnityProjects\MRTKIntro\</UnityProjectDir>
-        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity2017.3.0p2\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>
 </Project>

@@ -8,12 +8,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: -2067402452, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: ASfrACT/////AAAAGSb7GRsc4E9xqcuzrvbBsg9HojV8OB5mHw4JNKTua11wl6kOXfD2s8aPZh8WcAWtRoUbQ1zK6mDbrVLytbsG5hsnFOrcs3WcSaF+CLwrgZqLw987EHDrVV6HXyD7rAtG77EA2TnT682sts5D0w5R8fTSB2IcSSX6+zqMRpbcERzaPsWLNbsEldHO/h1/JibOwJYIWZwboWP2oGEdWlmoRrVHH+0RcgAcRCJW6Uy9HVLJGUd0Suj58oLQFdL/83HXVKzW8jlgNWPUK/mmslSiMlzAjNbOZaYmusT+3wPO/S7lEbew55Q3jGKvV7iOxr+gZQJHpWN1hadKkW01cWCRBR327ztO/HJDyv5VAk/31BKD
-    ufoLicenseKey: QVczN2Yzbi8vLy8vQUFBQUtMcnVvUm9NVTA5cmo3c0hDSGtjMGQ0aUpIcEQ3VUR0a1hDazFBNUtsRDNyOFAxcGdNV1diNVBrSzlrM0lkcDB5LzRsTTZBZVdiOWZEdWREdDlBVVlUaGZHcGttdGxGOWJSMnZubDIwSm1kbllQWUxIUllOd2wrZmI1a2cyNHJCYTV0SlVQVUhrKzc5UDBWN2dCa3VZZS9MOFFKK1U3dGdoc3dqYUtEL2tIUHZBaGEwTk1HTk1vVjh2TDBzbW5ZMUhNWXVFcTVLWHZzclpXNi9lekpYajYrNFEwRnAwWG1zaHVkSkZMckdybnlKZUx4OXNUV1BhRUptOWl2aXJSQXp4eTNicFhRRjRDM1dUMUhwb2J5a0pMaXRvU1lTSUp1UzFzSWk5Yk5FMVRlQUo1cUdmR0dpbWFDWDB2d0FLaHFXb1hoaGo0ZVhBLzRNanBSZ1FTaEpXMG4xZTVmdDVjNVdKRlJ2ZHplVlNMU1g=
+    ufoLicenseKey: QWRwMlpMYi8vLy8vQUFBQUtPY2FPclhHbkVqemt6bHViVHI1L1NGMUk4RDVieHk0Yjl5azlyZDBRVDFHVVJNM2tybS9wRW56aWZmNERjSzFVQkpHdlBwNkNROEh0TFN5Vm5WTFRPaURCV3ppckxGSTJQZTk3WjV1dTBIMHVuZ2ZoK0w1T3pRSDRnZFlDSC9SL2trekkzVVI0U0hpOW56M3h6SmRtRjAyVS9abUNKRXA1NVBma0lYV3B0TnZXVGpEbTdDbU9qWWl0YmphLzg2cDludk9DdnZQYnQrS0l0UEFFak5WMHhmWFNVTUpOV0IyL05oS3l1d20rSi9QdEd0UVNicG15UENad1k0UUJOT0tTN21qWWhMekNFeWR3Wk0wdDEzWTVsZ25zZG10WmhnU05oQng2bnFzV0dMeWlPbTh5VjhwdHZGVENpL3pPb3dkMngxTzZnaGF0ODNoNG9wTjZ2enhpT05hRTBaUUlmM2lzQWxkMm56SDF3QWg=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -43,17 +43,15 @@ MonoBehaviour:
       FieldOfView: {x: 0, y: 0, z: 0, w: 0}
       ContainsMagnet: 0
   databaseLoad:
-    dataSetsToLoad:
-    - acid_unity
-    dataSetsToActivate:
-    - acid_unity
+    dataSetsToLoad: []
+    dataSetsToActivate: []
   videoBackground:
     clippingMode: 0
     numDivisions: 2
     videoBackgroundShader: {fileID: 15311, guid: 0000000000000000f000000000000000,
       type: 0}
     matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
-    videoBackgroundEnabled: 0
+    videoBackgroundEnabled: 1
   deviceTracker:
     autoInitTracker: 0
     autoStartTracker: 0

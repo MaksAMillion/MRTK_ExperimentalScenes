@@ -15,7 +15,7 @@ namespace HoloToolkit.Unity.SpatialMapping
     public class RemoveSurfaceVertices : Singleton<RemoveSurfaceVertices>
     {
         [Tooltip("The amount, if any, to expand each bounding volume by.")]
-        public float BoundsExpansion = 0.2f;
+        public float BoundsExpansion = 0.0f;
 
         /// <summary>
         /// Delegate which is called when the RemoveVerticesComplete event is triggered.
@@ -241,6 +241,7 @@ namespace HoloToolkit.Unity.SpatialMapping
 
             foreach (GameObject gameObjectPrefab in listOfDecorations)
             {
+                gameObjectPrefab.SetActive(true);
                 bc = gameObjectPrefab.GetComponent<BoxCollider>();
 
                 if (bc != null)
