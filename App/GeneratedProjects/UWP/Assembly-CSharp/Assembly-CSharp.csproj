@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01970206-3b8a-425d-adbc-dac285b2dd14}</ProjectGuid>
+    <ProjectGuid>{f3594e31-f88e-4483-a91b-2c23134ac8f2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -2330,6 +2330,12 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\TouchManager.cs">
       <Link>Scripts\TouchManager.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs">
+      <Link>Vuforia\Scripts\DefaultInitializationErrorHandler.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs">
+      <Link>Vuforia\Scripts\DefaultTrackableEventHandler.cs</Link>
     </Compile>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

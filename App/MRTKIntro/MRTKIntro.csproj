@@ -362,7 +362,7 @@
 
   <ItemGroup>
     <ProjectReference Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{01970206-3b8a-425d-adbc-dac285b2dd14}</Project>
+      <Project>{f3594e31-f88e-4483-a91b-2c23134ac8f2}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

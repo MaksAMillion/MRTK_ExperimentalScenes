@@ -22,6 +22,16 @@ Data\sharedassets0.assets.resS
 Data\sharedassets0.resource
 Data\StreamingAssets\Vuforia\HoloBook.dat
 Data\StreamingAssets\Vuforia\HoloBook.xml
+Data\StreamingAssets\Vuforia\HoloBook_OT.dat
+Data\StreamingAssets\Vuforia\HoloBook_OT.xml
+Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat
+Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml
+Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat
+Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml
+Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat
+Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml
+Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat
+Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml
 GpuTiming.dll
 GpuTiming.pdb
 MicStreamSelector.dll

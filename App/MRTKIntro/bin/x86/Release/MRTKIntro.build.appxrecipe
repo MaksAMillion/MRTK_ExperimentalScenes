@@ -406,6 +406,21 @@
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\HoloBook.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook_OT.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\HoloBook_OT.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
     </AppxPackagedFile>
@@ -474,6 +489,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\HoloBook.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\HoloBook_OT.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\HoloBook_OT.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Object_OT.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_VuMark.dat</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
