@@ -22,4 +22,17 @@ public class HandController : MonoBehaviour
 
         _handAnimator.SetBool("Grab", grab);
     }
+
+    public void OnTriggerEnter(Collider collider)
+    {
+        GameObject collectible = collider.gameObject;
+
+        if (collectible.tag == "Collectible")
+        {
+            if (collectible.name == "SciFiGun")
+            {
+                Debug.Log("Has collided with gun");
+            }
+        }
+    }
 }

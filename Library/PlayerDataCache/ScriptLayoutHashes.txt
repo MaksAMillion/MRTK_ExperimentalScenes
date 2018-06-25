@@ -1,6 +1,6 @@
 Metro
 SceneListBegin?
-Assets/Scenes/SpatialMapping.unity
+Assets/Scenes/Startup.unity
 SceneListEnd?
 7abde016883951c4ca4e7c44ce6adb2c Assembly-CSharp.dll:HoloToolkit.Unity.SceneLauncher
 2fb39702360b86b0d9d52bce766883c8 Assembly-CSharp.dll:GLTF.GLTFComponent
@@ -364,6 +364,7 @@ f133614bc5eb7ed8e7fb906136387ff4 Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMa
 7f51c3ae6d2a735d8137d211eefae86d Assembly-CSharp.dll:HoloToolkit.Unity.Tagalong
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.SharingWithUNET.PositionDebugButton
 4a35c4d7a3003a87fbf8373b339cc2fe Assembly-CSharp.dll:HoloToolkit.Examples.InteractiveElements.InteractiveWidget
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Deactivate
 fbbac03c1b1a134d23a23cede6ffc0c9 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.InteractiveMeshCursor
 e9889e7adafda7ea1a0053a90e6cdbd4 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Tests.SelectedObjectMessageReceiver
 fad8dbf1251c6c663ef61aa4876f6776 Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.Keyboard
@@ -373,6 +374,7 @@ cade32f28e21a5f2370dd82c3d56c28c Assembly-CSharp.dll:HoloToolkit.Unity.SceneLaun
 4953a0a251bfaa39884232df41665b9a Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Examples.Grabbables.GrabbableSpringJoint
 a1e102180f14f39b1b42ad26fdb97a45 Assembly-CSharp.dll:HoloToolkit.Sharing.Tests.SyncObjectSpawner
 a855a8d343e454b1db522c4537b5f05c Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Examples.Grabbables.DuplicateAfterThrow
+2dfd1ad1b6e024a24ed5e82a38eb136b Assembly-CSharp.dll:.Collectible
 b48597bac756ea53cecb08fc53de8b9f Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.ButtonTextProfile
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.SetGlobalListener
 3c4315f82dfa129391ddf5f3849676fb Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.Examples.Grabbables.ThrowableObject

@@ -5,14 +5,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{62865e8c-1089-41ee-a180-b88b83e40b92}</ProjectGuid>
+    <ProjectGuid>{01992624-6175-48ae-9e81-b3a60ad50665}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
+    <TargetPlatformVersion>10.0.17134.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>
@@ -351,12 +351,15 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.Networking.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <SDKReference Include="WindowsDesktop, Version=10.0.16299.0"/>
-    <SDKReference Include="WindowsIoT, Version=10.0.16299.0"/>
-    <SDKReference Include="WindowsMobile, Version=10.0.16299.0"/>
-    <SDKReference Include="WindowsTeam, Version=10.0.16299.0"/>
+    <SDKReference Include="WindowsDesktop, Version=10.0.17134.0"/>
+    <SDKReference Include="WindowsIoT, Version=10.0.17134.0"/>
+    <SDKReference Include="WindowsMobile, Version=10.0.17134.0"/>
+    <SDKReference Include="WindowsTeam, Version=10.0.17134.0"/>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(UnityProjectDir)Assets\Deactivate.cs">
+      <Link>Deactivate.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit\Boundary\Scripts\BoundaryManager.cs">
       <Link>HoloToolkit\Boundary\Scripts\BoundaryManager.cs</Link>
     </Compile>
@@ -2297,6 +2300,9 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs">
       <Link>HoloToolkit-UnitTests\Utilities\ReflectionTestBehaviour.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\Collectible.cs">
+      <Link>Scripts\Collectible.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\FingerTouch.cs">
       <Link>Scripts\FingerTouch.cs</Link>

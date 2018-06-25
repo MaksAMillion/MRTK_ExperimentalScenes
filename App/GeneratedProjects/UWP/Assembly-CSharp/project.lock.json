@@ -15774,8 +15774,7 @@
     "UAP,Version=v10.0.10240": []
   },
   "packageFolders": {
-    "C:\\Users\\maxx8\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "C:\\Users\\maxx8\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
@@ -15784,15 +15783,11 @@
       "projectPath": "D:\\maxx8\\Documents\\UnityProjects\\MRTKIntro\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectJsonPath": "D:\\maxx8\\Documents\\UnityProjects\\MRTKIntro\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "packagesPath": "C:\\Users\\maxx8\\.nuget\\packages\\",
-      "outputPath": "D:\\maxx8\\Documents\\UnityProjects\\MRTKIntro\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\x86\\Release\\",
+      "outputPath": "D:\\maxx8\\Documents\\UnityProjects\\MRTKIntro\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
       "projectStyle": "ProjectJson",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\maxx8\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},

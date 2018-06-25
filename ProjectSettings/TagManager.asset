@@ -7,6 +7,7 @@ TagManager:
   - Tip
   - IndexFinger
   - cursor
+  - Collectible
   layers:
   - Default
   - TransparentFX

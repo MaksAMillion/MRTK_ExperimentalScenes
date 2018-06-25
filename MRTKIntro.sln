@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRTKIntro", "MRTKIntro.csproj", "{DD22BC6C-F013-819B-0A74-6B91F6C753C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRTKIntro.Editor", "MRTKIntro.Editor.csproj", "{1BE1BF80-5509-0711-7A76-4335FD3B1199}"

@@ -231,7 +231,6 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\BridgeI
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngineDelegates.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngineDelegates.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngineProxy.pdb
-D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.csprojResolveAssemblyReference.cache
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.csproj.CoreCompileInputs.cache
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.exe
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.pdb
@@ -303,3 +302,5 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\Multipl
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\ProjectArchitectures.txt
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.SpatialTracking.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\bin\x86\Release\UnityEngine.SpatialTracking.pdb
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.csprojAssemblyReference.cache
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\MRTKIntro\obj\x86\Release\MRTKIntro.csproj.CopyComplete

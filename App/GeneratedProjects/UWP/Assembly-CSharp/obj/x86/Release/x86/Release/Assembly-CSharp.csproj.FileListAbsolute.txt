@@ -1,7 +1,6 @@
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
-D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
@@ -16,3 +15,4 @@ D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CS
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
 D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\maxx8\Documents\UnityProjects\MRTKIntro\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojAssemblyReference.cache
